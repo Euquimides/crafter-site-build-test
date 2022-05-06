@@ -30,6 +30,13 @@
 								<header class="major">
 									<h2>Magna veroeros</h2>
 								</header>
+								
+								<#if contentModel.sections_o?has_content && contentModel.sections_o.item??>
+                                	<#list contentModel.sections_o.item as section>
+                                    	<span class="icon ${section?item_cycle('solid major style1', 'major style3', 'major style5')} "></span>
+                                    </#list>
+                                </#if>
+								
 								<ul class="features">
 									<li>
 										<span class="icon solid major style1 fa-code"></span>
