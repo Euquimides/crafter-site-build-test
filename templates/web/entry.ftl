@@ -6,9 +6,11 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
+
 <html>
 	<#include "/web/common/page/head.ftl" />
 	<body class="is-preload">
+	    <@crafter.body_top />
 
 		<!-- Wrapper -->
 			<div id="wrapper">
@@ -110,6 +112,6 @@
 			<script src="static-assets/js/breakpoints.min.js"></script>
 			<script src="static-assets/js/util.js"></script>
 			<script src="static-assets/js/main.js"></script>
-
+        <@crafter.body_bottom />
 	</body>
 </html>
