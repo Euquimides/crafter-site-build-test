@@ -271,7 +271,7 @@
 						</property>
 						<property>
 							<name>itemManager</name>
-							<value></value>
+							<value>allComponents</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
