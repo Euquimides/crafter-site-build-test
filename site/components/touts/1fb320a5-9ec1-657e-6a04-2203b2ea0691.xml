@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
 	<content-type>/component/feature</content-type>
-	<display-template/>
-	<no-template-required>true</no-template-required>
+	<display-template>/templates/web/tout.ftl</display-template>
+	<no-template-required>false</no-template-required>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>1fb3</objectGroupId>
 	<objectId>1fb320a5-9ec1-657e-6a04-2203b2ea0691</objectId>
@@ -15,6 +15,6 @@
 	<snippet_t>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</snippet_t>
 	<createdDate>2022-05-06T16:53:01.611Z</createdDate>
 	<createdDate_dt>2022-05-06T16:53:01.611Z</createdDate_dt>
-	<lastModifiedDate>2022-05-06T20:59:17.986Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-05-06T20:59:17.986Z</lastModifiedDate_dt>
+	<lastModifiedDate>2022-05-06T21:20:25.570Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-05-06T21:20:25.570Z</lastModifiedDate_dt>
 </component>
