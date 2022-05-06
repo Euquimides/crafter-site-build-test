@@ -25,8 +25,21 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2022-05-06T17:43:49.032Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-05-06T17:43:49.032Z</lastModifiedDate_dt>
+	<lastModifiedDate>2022-05-06T18:31:33.582Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-05-06T18:31:33.582Z</lastModifiedDate_dt>
 	<title_t>Hello!</title_t>
 	<disabled>false</disabled>
+	<sections_o item-list="true">	<item>	<key>/site/components/touts/1fb320a5-9ec1-657e-6a04-2203b2ea0691.xml</key>
+	<value>Tout one</value>
+	<include>/site/components/touts/1fb320a5-9ec1-657e-6a04-2203b2ea0691.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/touts/e1d2ae24-80d9-676d-7f44-1b89f4c12962.xml</key>
+	<value>Tout Two</value>
+	<include>/site/components/touts/e1d2ae24-80d9-676d-7f44-1b89f4c12962.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/touts/775fa4cf-1a5e-706a-d3c3-e64f95f88c60.xml</key>
+	<value>Tout Three</value>
+	<include>/site/components/touts/775fa4cf-1a5e-706a-d3c3-e64f95f88c60.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></sections_o>
 </page>
